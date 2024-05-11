@@ -4,11 +4,11 @@
   "description": "Testing npm",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "hello": "node helloworld.js"
   },
   "repository": {
     "type": "git",
-    "url": "CIT262-MATTVIL-TEST"
+    "url": "https://github.com/Mattvil04/CIT262-MATTVIL-TEST.git"
   },
   "author": "Matias Villacis",
   "license": "ISC"
