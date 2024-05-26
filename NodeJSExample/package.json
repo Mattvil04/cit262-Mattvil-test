@@ -4,12 +4,16 @@
   "description": "Testing npm",
   "main": "index.js",
   "scripts": {
-    "hello": "node helloworld.js"
+    "hello": "node helloworld.js",
+    "test": "jest"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/Mattvil04/CIT262-MATTVIL-TEST.git"
   },
   "author": "Matias Villacis",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
