@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "hello": "node helloworld.js",
+    "forEach": "forEach.js",
     "test": "jest"
   },
   "repository": {
